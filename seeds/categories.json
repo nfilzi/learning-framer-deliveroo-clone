@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "title": "Burgers",
+      "image_url": "https://raw.githubusercontent.com/nfilzi/learning-framer-deliveroo-clone/master/seeds/images/categories/burgers.png"
+    },
+    {
+      "title": "Desserts",
+      "image_url": "https://raw.githubusercontent.com/nfilzi/learning-framer-deliveroo-clone/master/seeds/images/categories/desserts.png"
+    },
+    {
+      "title": "Kebab",
+      "image_url": "https://raw.githubusercontent.com/nfilzi/learning-framer-deliveroo-clone/master/seeds/images/categories/kebab.png"
+    },
+    {
+      "title": "Pizza",
+      "image_url": "https://raw.githubusercontent.com/nfilzi/learning-framer-deliveroo-clone/master/seeds/images/categories/pizza.png"
+    },
+    {
+      "title": "Sandwiches",
+      "image_url": "https://raw.githubusercontent.com/nfilzi/learning-framer-deliveroo-clone/master/seeds/images/categories/sandwiches.png"
+    },
+    {
+      "title": "Tacos",
+      "image_url": "https://raw.githubusercontent.com/nfilzi/learning-framer-deliveroo-clone/master/seeds/images/categories/tacos.png"
+    }
+  ]
+}
